@@ -1,0 +1,3 @@
+== README
+
+Zurb_store is based on railscast, and serves as an introduction to Zurb Foundation tools. It has an index, forms, about, with layouts from Zurb Foundation.
